@@ -47,7 +47,7 @@ The sex symbols of the time got just as much interest as those today,
 but the difference in photo quality or attractiveness is enormous.
 Looking at shoots of major models from then
 -- the Spice Girls, Madonna, Britney Spears, and so forth,
-but to viewers in 2020, those photos look mostly unremarkable, if not frumpy.
+but to viewers in 2020, those photos look mostly unremarkable.
 Going back further, would a [swimsuit photo](https://i.pinimg.com/736x/67/ae/1d/67ae1d94014e0e2e1188f0c5db13d39b.jpg)
 of Marilyn Monroe, *the* most famous
 sexual icon of all time, even catch your attention scrolling through Instagram? Not mine, frankly.
