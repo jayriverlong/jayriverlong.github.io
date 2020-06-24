@@ -23,55 +23,23 @@
 
   <body>
     <div class="shell">
-
-      <header>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <h1>{{ site.title | default: site.github.repository_name }} HELLO</h1>
-            <h2>{{ site.description | default: site.github.project_tagline }} test1</h2>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-      </header>
-
-      {% if site.show_downloads %}
-        <section id="downloads">
-          <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
-          </span>
-        </section>
-      {% else %}
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
-      {% endif %}
-
-
-      <span class="banner-fix"></span>
-
-
       <section id="main_content">
-        this is the main content
+        <!-- <h2><span style='float:left;'>Jay Riverlong</span><span style='float:right;'>About</span></h2> -->
+        <h2><table style='border:0;background:none;'><tr><td><a href='/'>Jay Riverlong</a></td><td><a href='/about'>About</a></tr></table></h2>
         {{ content }}
       </section>
 
-      <footer>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            {% if site.github.is_project_page %}
-              <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
-            {% endif %}
-            {% if site.github.is_user_page %}
-              <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
-            {% endif %}
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span>
+      <footer style='background:none;'>
+        {% if is_blogpost %}
+            <span class="ribbon-outer">
+              <span class="ribbon-inner">
+                <p style="font:300 12px/1 'Open Sans', Myriad, Calibri, sans-serif;padding-bottom:4px;padding-top:4px;">Follow me on <a style='font-size: 16px/1;text-transform:none;' href='https://twitter.com/jayriverlong'>Twitter</a>.</p>
+              </span>
+              <span class="left-tail"></span>
+              <span class="right-tail"></span>
+            </span>
+        {% endif %}
+        <p style='font-weight:300;'>This content is distributed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, except where otherwise noted.</p>
       </footer>
 
     </div>

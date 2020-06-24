@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Hello World"
+title: "Jay Riverlong"
 permalink: /
 ---
-## Hello World
+### Superstimulus in 2020
+Media is more enticing than it has ever been before. Where does it lead?
+
