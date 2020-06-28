@@ -40,7 +40,7 @@ some of his earlier colleagues did, even if perhaps more by luck than skill.
 Eclipsed by younger talent, he is disoriented in
 a world that has changed around him. He suffers through his pains,
 and rises to new heights in the end.
-That act, to face his own inadequancies and carry on, makes him a hero
+That act, to face his own inadequacies and carry on, makes him a hero
 in an ordinary, relatable way.
 He's no Great (Anti-)Hero
 like The Bride, Django, or Jules Winnfield -- but he's a real human.
