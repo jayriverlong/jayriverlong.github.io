@@ -13,7 +13,7 @@ probably being among the first few to really make a living playing video games.
 As I hit my late teens, my gaming turned into a career as a professional poker player.
 During that time, I travelled extensively throughout South America and Europe; I was an early digital nomad.
 Three years in, the ethics of gambling became troubling to me, so I quit. I then went to college at
-Princeton, where I majored in math (much to my own surprise). People kept telling me I'd
+Princeton, where I picked up a degree in math (much to my own surprise). People kept telling me I'd
 make a good academic, so I did one final lap of school at Cambridge in economics.
 
 After I finally determined that academia wasn't for me, I moved to Silicon Valley in late 2015, where I've been active
