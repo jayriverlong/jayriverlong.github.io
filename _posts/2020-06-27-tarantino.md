@@ -109,7 +109,7 @@ seconds. The scene where Cliff feeds his dog while making dinner and
 cracking open a beer, feels so extremely high-resolution in every sense --
 every bubble in the beer is crisp and pristine, nothing is blurred, and
 the audio of every iota of the process is so clear that it could be ASMR.
-By its amount of detail, this minute-long scene could be a short film.
+By its sheer amount of lush detail, this minute-long scene could be a short film.
 Watching it blew my mind.
 
 
@@ -157,9 +157,9 @@ to share with us a wonderful ride.
 [^3]:
     That's insofar as there is a plot -- everything that happens in the movie happens
     regardless of Tate's actions, except for the very end, where her disembodied
-    voice finally admits Dalton to the upper echelon of Hollywood.
-    I think *Hollywood* is more a movie of vignettes than
-    a traditional plot, but that's a strength: it is a pure audiovisual *experience*.
+    voice finally admits Dalton to her ranks.
+    *Hollywood* is more a movie of vignettes than led by
+    a traditional plot, but that's not a weakness: it is a pure audiovisual *experience*.
     It communicates an immense beauty and richness of feeling, the way that a
     really strong piece of instrumental music doesn't need lyrics --
     in fact, lyrics would only be a distraction -- to move the listener.
