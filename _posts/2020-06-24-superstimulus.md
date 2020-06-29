@@ -144,7 +144,7 @@ perfectly enthralled, and it's killing us.
 
 But there's a counterpoint. This trend matches a pattern,
 where fears of change between one generation and the next
-always seem new and pressing, but those changes actually been going on *forever*.
+always seem new and pressing, but those changes actually have been going on *forever*.
 For example, many people today might complain that the young have worse manners
 and spend less time on schoolwork than the previous generation. But that complaint
 has been uniformly raised by every generation since the days of Socrates. Fears
