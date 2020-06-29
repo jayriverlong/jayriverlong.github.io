@@ -87,11 +87,11 @@ memories of times past are always rose-colored by nostalgia -- but reality works
 
 
 If today's severity and randomness of cancel culture is not actually new,
-is it noteworthy or different in any important respects? Today's cancel culture
-is one of escalating purity tests: borne out of the more punitive contingents on the left,
+is it different in any important respects? Today's cancel culture
+is one of escalating purity tests: born out of the more punitive contingents on the left,
 it's not enough to not be a racist or a sexist, but one must take stronger,
 more condemnatory views, which function as powerful in-group signals.[^2]
-Cancel culture at present is thus strongly ideologically motivated --
+Cancel culture is thus somewhat performative, and strongly ideologically motivated --
 some people are likening it to the witch hunts for communists in the 50s under
 Joseph McCarthy. The left is in a curious, self-damaging position, where
 lots of center-leaning moderates -- who are genuine progressives --
@@ -110,7 +110,7 @@ and motivations under new cover.
 Thus, like everyone else, we acknowledge cancel culture as a trend,
 but unlike everyone else, we see it as a trend that is very *old* rather than *new*.
 In turn, the question we ask about is radically different:
-while everyone else asks "how has modernity given rise to cancel culture",
+while everyone else asks "how has technology given rise to cancel culture",
 we know that it hasn't, and instead ask "how can we use technology to mitigate cancel culture?"
 
 
