@@ -53,30 +53,8 @@ header, main {
   background: #fac14e;
 }
 
-.card:nth-child(5n + 1) {
-  background: #ffb4b4;
-}
-
-.card:nth-child(6n + 1) {
-  background: #ffb4b4;
-}
-
-.card:nth-child(7n +1) {
-  background: #fac14e;
-}
-
-
-.card:nth-child(4n + 1) {
-  background: #fac14e;
-}
-.card:nth-child(4n + 2) {
-  background: #fbcfb9;
-}
-.card:nth-child(4n + 3) {
-  background: #ffb4b4;
-}
-.card:nth-child(4n + 4) {
-  background: #96d0c3;
+.card:nth-child(5n) {
+  background: #b1cef9;
 }
 
 .card {
