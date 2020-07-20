@@ -132,6 +132,8 @@ are not works of cold analysis, but works of pure emotion. And that is
 *Once Upon a Time in Hollywood*: so much loving detail poured in by Tarantino,
 to share with us a wonderful ride.
 
+<br/>
+
 ---
 
 [^1]:
