@@ -125,7 +125,7 @@ and (2) they falsify what they want in their partners. This makes it
 profoundly difficult to generate matches at a better-than-random rate.
 Both of these issues are fundamentally due to the user having too much choice,
 both in how they describe themselves and how they choose others.
-Importantly, these are not really blameable faults of the users,
+Importantly, these are not really blamable faults of the users,
 and it's clear that the current generation
 of dating apps will not remedy these problems.
 
@@ -133,7 +133,7 @@ of dating apps will not remedy these problems.
 I am hopeful that the next generation of dating apps will solve this issue
 by relying more on large-scale,
 latent data: I am imagining an app where an amalgamation
-of your reddit, spotify, twitter, facebook, google search, etc. histories
+of your Reddit, Spotify, Twitter, Facebook, Google Search, etc. histories
 know you better than you know yourself -- and that can be used to
 match you perfectly with a partner.
 I've been surprised that I haven't
