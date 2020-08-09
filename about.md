@@ -19,9 +19,10 @@ make a good academic, so I did one final lap of school at Cambridge in economics
 After I finally determined that academia wasn't for me, I moved to Silicon Valley in late 2015, where I've been active
 as an entrepreneur and investor in early-stage companies.
 
-## Contact
+## Contact / Follow
 
 You can catch me on [twitter](https://twitter.com/jayriverlong) or write to me at [riverlong@protonmail.com](mailto:riverlong@protonmail.com).
+I also post blog updates on my [substack](https://jayriverlong.substack.com/) email newsletter.
 
 ## Tips
 
