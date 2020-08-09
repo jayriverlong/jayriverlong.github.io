@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-02T14:38:08-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">The Problem of Preference Falsification in Online Dating</title><link href="http://localhost:4000/2020/08/02/online-dating.html" rel="alternate" type="text/html" title="The Problem of Preference Falsification in Online Dating" /><published>2020-08-02T00:00:00-07:00</published><updated>2020-08-02T00:00:00-07:00</updated><id>http://localhost:4000/2020/08/02/online-dating</id><content type="html" xml:base="http://localhost:4000/2020/08/02/online-dating.html">&lt;p&gt;Online dating is as old as the internet.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-08T21:00:04-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Making Poverty Fashionable to Millennials</title><link href="http://localhost:4000/2020/08/08/poverty.html" rel="alternate" type="text/html" title="Making Poverty Fashionable to Millennials" /><published>2020-08-08T00:00:00-07:00</published><updated>2020-08-08T00:00:00-07:00</updated><id>http://localhost:4000/2020/08/08/poverty</id><content type="html" xml:base="http://localhost:4000/2020/08/08/poverty.html">&lt;p&gt;There is a number of online “alternative lifestyle” movements that have been
+gaining steam among millennials. They are appealing in their leanness:
+do more with less. At first, they seem cute and liberating.
+Scores of Instagram influencers and bloggers romanticize these
+lifestyles, and their subreddits are buzzing with zealots. Key examples below:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FIRE (Financial Independence, Retire Early)&lt;/strong&gt;: live frugally now to save
+    money as quickly as possible, then buy a place in a low cost-of-living area
+    and live (mostly) off your savings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Van Life&lt;/strong&gt;: Buy a van, trick it out with a beautiful
+    bed and a kitchen. Live lightly, travel the world, work remotely.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tiny Houses&lt;/strong&gt;: Nobody needs 5,000 square feet. Why not play with constraints,
+    and build a full house with the square feet of a studio?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Remote Work&lt;/strong&gt;: work your high-paying-job from a low-cost-of-living area,
+    save up money, and save on commuting.&lt;/p&gt;
+
+&lt;p&gt;While these lifestyles are marketed as all about freedom,
+they come with major restrictions:
+they are overwhelmingly for the single and childless.
+Having
+children is very expensive, so it’s hard to make that work with FIRE.
+On the other hand, van life and tiny houses are logistically
+prohibitive to having children.
+By going down these routes, their adherents
+will delay having kids, likely by years. That’s usually a bad trade.&lt;/p&gt;
+
+&lt;p&gt;Not only do these lifestyles constrain, they also reflect a severe already-existing
+capital constraint.
+Broadly, &lt;em&gt;all&lt;/em&gt; of these movements are reactions
+to poverty.
+Living in a van, tiny house, or remotely all stem from one factor:
+real estate in your preferred area (perhaps the place you call “home”)
+is too expensive.
+You can’t afford to buy or rent a real
+place there, so you move into an Instagrammable shed,
+or you move away altogether.
+These lifestyles are solutions to problems
+of poverty – but in making those solutions fashionable, they hide
+the ugly reality underneath.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, these movements romanticize and hide
+the true &lt;a href=&quot;https://en.wikipedia.org/wiki/Millennials#In_the_United_States&quot;&gt;generational poverty of millennials&lt;/a&gt;.
+This is a generation of people who will never retire,
+who may never even buy real estate of their own.
+In terms of intergenerational wealth, these people are screwed.
+And I would like to see that point raised and addressed,
+instead of making do with solutions of desperation.&lt;/p&gt;</content><author><name></name></author><summary type="html">There is a number of online “alternative lifestyle” movements that have been gaining steam among millennials. They are appealing in their leanness: do more with less. At first, they seem cute and liberating. Scores of Instagram influencers and bloggers romanticize these lifestyles, and their subreddits are buzzing with zealots. Key examples below:</summary></entry><entry><title type="html">The Problem of Preference Falsification in Online Dating</title><link href="http://localhost:4000/2020/08/02/online-dating.html" rel="alternate" type="text/html" title="The Problem of Preference Falsification in Online Dating" /><published>2020-08-02T00:00:00-07:00</published><updated>2020-08-02T00:00:00-07:00</updated><id>http://localhost:4000/2020/08/02/online-dating</id><content type="html" xml:base="http://localhost:4000/2020/08/02/online-dating.html">&lt;p&gt;Online dating is as old as the internet.
 It has exploded in popularity in recent years:
 roughly &lt;a href=&quot;https://gallery.mailchimp.com/2506bda6ca9a8b7ce8b3c54b4/files/1a8cc94c-6198-4f3d-b27d-8a6060ed6c5d/Tyro_Dating_Market_Thesis_Final_For_Twitter_Pub_v2.pdf&quot;&gt;40% of straight couples now meet online&lt;/a&gt;.
 It has given women more safety and choice as they participate in the dating market,
@@ -107,14 +156,14 @@ and (2) they falsify what they want in their partners. This makes it
 profoundly difficult to generate matches at a better-than-random rate.
 Both of these issues are fundamentally due to the user having too much choice,
 both in how they describe themselves and how they choose others.
-Importantly, these are not really blameable faults of the users,
+Importantly, these are not really blamable faults of the users,
 and it’s clear that the current generation
 of dating apps will not remedy these problems.&lt;/p&gt;
 
 &lt;p&gt;I am hopeful that the next generation of dating apps will solve this issue
 by relying more on large-scale,
 latent data: I am imagining an app where an amalgamation
-of your reddit, spotify, twitter, facebook, google search, etc. histories
+of your Reddit, Spotify, Twitter, Facebook, Google Search, etc. histories
 know you better than you know yourself – and that can be used to
 match you perfectly with a partner.
 I’ve been surprised that I haven’t
