@@ -1,4 +1,154 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-09T15:12:19-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Making Poverty Fashionable to Millennials</title><link href="http://localhost:4000/2020/08/08/poverty.html" rel="alternate" type="text/html" title="Making Poverty Fashionable to Millennials" /><published>2020-08-08T00:00:00-07:00</published><updated>2020-08-08T00:00:00-07:00</updated><id>http://localhost:4000/2020/08/08/poverty</id><content type="html" xml:base="http://localhost:4000/2020/08/08/poverty.html">&lt;p&gt;There is a number of online “alternative lifestyle” movements that have been
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-17T14:18:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">SPACs, Micro-LPs, Substack: Disintermediation at Last</title><link href="http://localhost:4000/2020/08/16/spac.html" rel="alternate" type="text/html" title="SPACs, Micro-LPs, Substack: Disintermediation at Last" /><published>2020-08-16T00:00:00-07:00</published><updated>2020-08-16T00:00:00-07:00</updated><id>http://localhost:4000/2020/08/16/spac</id><content type="html" xml:base="http://localhost:4000/2020/08/16/spac.html">&lt;p&gt;It has long been said that the internet has a power to remove
+middlemen, to make opportunity more accessible, and to lower barriers to entry.
+Throughout Spring/Summer 2020, we’ve seen this promise rapidly become true, at scale,
+in a number of industries.
+These markets have eliminated middlemen both as
+gatekeepers (hurdles to access) and as distributors (aggregators of supply and demand).
+As such, these markets have emerged peer-to-peer structures, greatly increasing their &lt;em&gt;resolution&lt;/em&gt;.
+Let’s look at these dynamics in a few examples:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rolling Funds&lt;/strong&gt;: productized by AngelList, they’ve enabled
+    faster, more granular raising of venture capital funds.
+    They’re perfect for reputable angel investors
+    to raise external funds from smaller LPs. &lt;a href=&quot;https://twitter.com/shl/status/1291760138571849728&quot;&gt;Sahil Lavingia&lt;/a&gt;
+    and &lt;a href=&quot;https://medium.com/@CindyBiSV/capitalx-is-live-rolling-fund-3d7ccfe9736a&quot;&gt;Cindy Bi&lt;/a&gt;
+    are leading examples. Fundraising, especially as a first-time fund manager,
+    used to take hundreds of meetings with HNWIs and funds-of-funds. Now, someone with a strong online following
+    can raise hundreds of small cheques from people they have never even spoken with.&lt;/p&gt;
+
+&lt;p&gt;The corollary is an increase in the resolution of the market.
+Suddenly, the set of entities you can raise from, or who are able
+to invest in these markets, is no longer a pool of professional capital allocators,
+but &lt;em&gt;nearly anyone&lt;/em&gt;.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; The minimum cheque size changes too, and the micro-LP emerges.
+In the past, a multi-millionaire might write a $250K cheque to
+Kleiner Perkins. Now, a tech worker might write twenty-five $10k cheques to smart solo GPs.&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Substack&lt;/strong&gt;: not only are new writers like &lt;a href=&quot;https://www.bloomberg.com/news/articles/2020-07-02/nathan-tankus-s-newsletter-subscribers-don-t-care-about-diplomas&quot;&gt;Nathan Tankus&lt;/a&gt;
+     making a name for themselves (and a full-time income)
+    on the newsletter subscription site, it’s also
+    attracting well-established journalists like Alison Roman, Alex Kantrowitz,
+    Anne Helen Petersen, and more.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;
+    With a couple thousand subscribers each at $5 a month,
+    they’re probably making more than they were at their traditional
+    institutions.&lt;/p&gt;
+
+&lt;p&gt;The (editorial) gatekeeper has disappeared, and the unbundling again
+increases the resolution of the market: instead of reading a journal’s opinion columns,
+I might just subscribe to a number of newsletters and curate my own columns.
+Instead of the author being paid by the journal,
+which might not be entirely aligned with the author’s views, the author is paid directly
+by their readers. In terms of authenticity, this peer-to-peer model is superior.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OnlyFans&lt;/strong&gt;: People had been talking about
+    “Patreon, but for porn” for years; here it is at last.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;
+    This is yet another way for people to capitalize on their
+    online popularity, connect peer-to-peer with their audience, and cut out
+    traditional gatekeepers&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and distributors. What’s particularly
+    interesting about
+    OnlyFans is that it is &lt;em&gt;obviously superior&lt;/em&gt; to the traditional
+    distribution model: old-school porn studios used to sell videos by the view.
+    As pornstars of the 2010s pioneered with private Snapchats, it turned out
+    that community and (the illusions of) exclusivity and attention
+    are real drivers of engagement, and, in turn, revenue. Having a presence
+    on OnlyFans is massively more lucrative than being a traditional pornstar.&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SPACs&lt;/strong&gt;: there’s been a surge in &lt;em&gt;&lt;a href=&quot;https://alexdanco.com/2020/07/24/spac-man-begins/&quot;&gt;Special Purpose Acquisition Companies&lt;/a&gt;&lt;/em&gt;,
+    which are effectively massive blank cheques ($100M+) to highly reputable investors,
+    for them to use to take private companies public. Like
+    rolling funds, these are primarily vehicles betting on the reputations of
+    their champions.&lt;/p&gt;
+
+&lt;p&gt;Of course, these trends are not entirely novel.
+For example, Patreon and Bandcamp are spiritual precursors to Substack and OnlyFans.&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;
+But the pace has picked up, and in a COVID world,
+tech accelerates and we’ll  see more of these
+enterprises soon. For example,
+homeschooling, whether by choice or not, is
+rapidly becoming more common.
+I expect that someone will  &lt;em&gt;completely remake&lt;/em&gt;
+online tutoring, and teachers will move from the classroom to giving 1:1 online lessons.&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;
+In this environment, top-performing teachers will finally be paid fairly.
+Similar trends are already emerging for fitness coaches and therapists.&lt;/p&gt;
+
+&lt;p&gt;What’s remarkable about these trends is that they’re taking place &lt;em&gt;now&lt;/em&gt; and not earlier.
+In terms of pure technology or regulation, any of these companies could have been started
+ten or twenty years ago. Why did it take until 2020 for simple
+innovations – paid individual subscriptions, monetizing reputation –
+to take off? I cannot imagine any answer other than that the internet has
+finally hit a certain maturity in that it is possible for people to achieve
+real reputation at scale &lt;em&gt;without&lt;/em&gt; the gimmick of going viral. The online
+self-published media that we have – Twitter, Medium, YouTube, etc. and all their deeply imperfect
+discovery algorithms – is a mess, but it seems to be successfully giving a voice
+to creators &lt;em&gt;and&lt;/em&gt; enabling reasonably effective discovery/distribution of content.
+Platforms to capitalize on reputations are developing as quickly as it is
+actually possible to develop monetizable reputations at scale.&lt;/p&gt;
+
+&lt;p&gt;The middlemen of old were gatekeepers and aggregators: content creators would apply to middlemen,
+who would in turn distribute the content to an established
+base of consumers. The middleman both aggregated supply and demand in the market.
+The matching of the two sides of the market was coarse at best.
+The technology we have now – what Twitter, Twitch, etc. ultimately represent –
+are opaque interest matching engines
+that enable sufficient distribution and discovery of content,
+such that the supply and demand sides can actually be matched on a peer-to-peer basis at scale.
+This is remarkable.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Credit is due to Justin de Guzman, who succinctly captured the spirit and core point
+of this essay in a &lt;a href=&quot;https://twitter.com/defaultalive/status/1293771885998567424&quot;&gt;single tweet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Some accredited investor rules apply. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Consequently, I wouldn’t be surprised if we start seeing even more angels
+who play in Pre-Seed/Seed/Series A, and more party rounds that boot out the
+traditional venture firms. I don’t think this would actually have an effect
+on round pricing, but it would – very importantly – usually delay the
+addition of the first investor board member to the Series A or B. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://simonowens.substack.com/p/why-high-profile-writers-choose-substack&quot;&gt;Source&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;I’m baffled that no-one else had built OnlyFans previously.
+It seemed the only real hurdle was compliance and getting onboarded
+with payment providers. Now, someone out there is building a bootstrapped,
+soon-to-be billion-dollar business, because they were willing to go through
+compliance slog that no-one else could be bothered doing. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;Camsites often take 30 - 50% of their streamers’ revenues! &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;You’d be shocked by how &lt;a href=&quot;https://www.esquire.com/lifestyle/sex/news/a43706/porn-salaries/&quot;&gt;little money&lt;/a&gt;
+even the most popular traditional
+pornstars make. Being on OnlyFans, or even on a regular camsite, with a
+couple hundred followers, is easily a better deal (while also being much safer for the star).
+Mia Khalifa – briefly one of the biggest names in porn –
+made &lt;a href=&quot;https://nypost.com/2019/08/12/mia-khalifa-claims-she-made-only-12k-doing-porn/&quot;&gt;less than $12k&lt;/a&gt;
+during her tenure. Being a male pornstar is basically a minimum-wage job.
+Porn is a somewhat neglected industry that has been decimated by online piracy,
+and doesn’t have a powerful institution like the RIAA to defend it. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;If you’re willing to stretch the definition a little, you could argue
+that Instagram influencer advertising – where a brand works directly with
+the influencer – disintermediates the traditional advertising agency model.
+In the context of our discussion, it’s also another good example of
+building and capitalizing on reputation in one stroke. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;For the reason behind 1:1 specifically as opposed to “small class sizes”,
+please see &lt;a href=&quot;https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem&quot;&gt;Bloom’s Two Sigma Paper&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">It has long been said that the internet has a power to remove middlemen, to make opportunity more accessible, and to lower barriers to entry. Throughout Spring/Summer 2020, we’ve seen this promise rapidly become true, at scale, in a number of industries. These markets have eliminated middlemen both as gatekeepers (hurdles to access) and as distributors (aggregators of supply and demand). As such, these markets have emerged peer-to-peer structures, greatly increasing their resolution. Let’s look at these dynamics in a few examples:</summary></entry><entry><title type="html">Making Poverty Fashionable to Millennials</title><link href="http://localhost:4000/2020/08/08/poverty.html" rel="alternate" type="text/html" title="Making Poverty Fashionable to Millennials" /><published>2020-08-08T00:00:00-07:00</published><updated>2020-08-08T00:00:00-07:00</updated><id>http://localhost:4000/2020/08/08/poverty</id><content type="html" xml:base="http://localhost:4000/2020/08/08/poverty.html">&lt;p&gt;There is a number of online “alternative lifestyle” movements that have been
 gaining steam among millennials. They are appealing in their leanness:
 do more with less. At first, they seem cute and liberating.
 Scores of Instagram influencers and bloggers romanticize these

@@ -40,6 +40,7 @@ header, main {
         margin: 0
     }
 }
+
 .card:nth-child(1n) {
   background: #96d0c3;
 }
@@ -52,9 +53,30 @@ header, main {
 .card:nth-child(4n) {
   background: #fac14e;
 }
-
 .card:nth-child(5n) {
   background: #b1cef9;
+}
+.card:nth-child(6n) {
+  background: #deb9ff;
+}
+
+.card:nth-child(1n+6) {
+  background: #96d0c3;
+}
+.card:nth-child(2n+6) {
+  background: #ffb4b4;
+}
+.card:nth-child(3n+6) {
+  background: #fbcfb9;
+}
+.card:nth-child(4n+6) {
+  background: #fac14e;
+}
+.card:nth-child(5n+6) {
+  background: #b1cef9;
+}
+.card:nth-child(6n+6) {
+  background: #deb9ff;
 }
 
 .card {
