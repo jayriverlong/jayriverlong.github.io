@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-07T20:21:16-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">For the Future of Work, Look to Gaming</title><link href="http://localhost:4000/2020/09/06/work.html" rel="alternate" type="text/html" title="For the Future of Work, Look to Gaming" /><published>2020-09-06T00:00:00-07:00</published><updated>2020-09-06T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/06/work</id><content type="html" xml:base="http://localhost:4000/2020/09/06/work.html">&lt;p&gt;In 2002, my mom started a new job in finance.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-07T20:43:41-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">For the Future of Work, Look to Gaming</title><link href="http://localhost:4000/2020/09/06/work.html" rel="alternate" type="text/html" title="For the Future of Work, Look to Gaming" /><published>2020-09-06T00:00:00-07:00</published><updated>2020-09-06T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/06/work</id><content type="html" xml:base="http://localhost:4000/2020/09/06/work.html">&lt;p&gt;In 2002, my mom started a new job in finance.
 One day, I visited her office.
 As part of the grand tour, she showed me her
 Lotus Notes setup on her PC, and explained that she received around 400 emails a day.
@@ -42,6 +42,12 @@ Some tools, like Notion, GitHub, and Roam Research are genuinely unprecedented
 in that they have no prior product analogies, but for the most part, you can
 predict the 2020 remote work toolkit by looking
 at the 2010 gaming toolkit.&lt;/p&gt;
+
+&lt;p&gt;It’s unsurprising that there would be a strong correspondence between online
+gaming and work tools. Both are collaborative team efforts, and require low-latency communication
+over text, audio, and video. Both make use of complex external services to manage
+recruiting, onboarding, collective knowledge, and to solve complicated
+coordination problems over multiple timezones for dozens, if not hundreds of teammates.&lt;/p&gt;
 
 &lt;p&gt;Let’s look ahead. What does gaming in 2020 tell us
 about collaborative work in the future?&lt;/p&gt;
@@ -196,7 +202,7 @@ would be a much more reliable source to draw on. &lt;a href=&quot;#fnref:5&quot
       &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Mumble_(software)&quot;&gt;Mumble&lt;/a&gt; solved it in a different way: for online 3D spaces,
 like in FPS games, not only can you break up into channels, etc. but the loudness of your voice, as heard by another player,
 is proportionate to your distance from them. Insofar as supporting the skeuomorphic VR experience goes,
-this might be a clean way to make it feel a little more organic. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+this might be a clean way to make it feel more organic. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name></name></author><summary type="html">In 2002, my mom started a new job in finance. One day, I visited her office. As part of the grand tour, she showed me her Lotus Notes setup on her PC, and explained that she received around 400 emails a day. This baffled my eleven year old mind: “why don’t you guys just use MSN?” My friends at school used Microsoft’s Messenger for everything. Some of my friends in the US had me hopping on AOL, but either one seemed obviously better than my mom and her highly-paid colleagues shooting one-line emails through their bulky setups. Nearly twenty years later, Slack and Microsoft Teams are finally making real-time chat commonplace even among the most traditional enterprises.</summary></entry><entry><title type="html">What Does Steve Bannon Think?</title><link href="http://localhost:4000/2020/08/21/bannon.html" rel="alternate" type="text/html" title="What Does Steve Bannon Think?" /><published>2020-08-21T00:00:00-07:00</published><updated>2020-08-21T00:00:00-07:00</updated><id>http://localhost:4000/2020/08/21/bannon</id><content type="html" xml:base="http://localhost:4000/2020/08/21/bannon.html">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
