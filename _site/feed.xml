@@ -1,4 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-07T20:43:41-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">For the Future of Work, Look to Gaming</title><link href="http://localhost:4000/2020/09/06/work.html" rel="alternate" type="text/html" title="For the Future of Work, Look to Gaming" /><published>2020-09-06T00:00:00-07:00</published><updated>2020-09-06T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/06/work</id><content type="html" xml:base="http://localhost:4000/2020/09/06/work.html">&lt;p&gt;In 2002, my mom started a new job in finance.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-12T14:57:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Never Invest in the Business Model</title><link href="http://localhost:4000/2020/09/12/angel.html" rel="alternate" type="text/html" title="Never Invest in the Business Model" /><published>2020-09-12T00:00:00-07:00</published><updated>2020-09-12T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/12/angel</id><content type="html" xml:base="http://localhost:4000/2020/09/12/angel.html">&lt;p&gt;I am an angel investor. I have been investing personally in early-stage companies,
+Pre-Seed through Series B, since 2015. I do it not for money but for love of the game;
+the greatest pleasure to me is to learn from entrepreneurs smarter than me, and help them succeed.&lt;/p&gt;
+
+&lt;p&gt;Over the last five years, as I look at my wins and misses, one thing seems clear:
+at the earliest stages, business models do not matter at all.
+This is a deeply unpopular
+position, in part because philosopher-king VCs love to talk about business abstractions
+and ask about moats, network effects, returns to scale, value chains, innovator’s dilemmas and so forth.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
+But at the seed stage, very little of this matters.&lt;/p&gt;
+
+&lt;p&gt;Startups rarely stick to the original business plan.
+There’s always a pivot: sometimes in the product, sometimes in go-to-market,
+sometimes in the whole thing. In addition, exogenous shocks (COVID-19 being a great example)
+perturb the best laid plans of mice and men, and every startup eventually finds itself
+in deep and unfamiliar waters.
+These are the moments that dictate success or failure, and what matters then?
+Cash in the bank, and the nimbleness and thoughtfulness of the team. Those are the only things.&lt;/p&gt;
+
+&lt;p&gt;I’ve had a lot of run-ins with this pattern over the last eight months due to COVID.
+The businesses that were most vulnerable to COVID (and, inversely, least able
+to take advantage of COVID) were the ones that were most exposed to their
+own business plans, that had the least nimble founders, and left the least
+optionality for pivots.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, great teams always have a leg up.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;So, my position is that the business model at the pre-seed/seed stage doesn’t matter.
+It’s barely worth diligencing. This gets me a lot of flak from other investors,
+presumably because they feel smart when they write their multi-page memos,
+and here I am saying that the emperor has no clothes.&lt;/p&gt;
+
+&lt;p&gt;A similar, and somewhat more popular position, is that startup financials don’t matter.
+If you barely have revenue, your future forecasts are worthless. Reality
+will always differ greatly, and anyone with a pulse
+knows this.
+However, looking at a startup’s forecasts is still valuable, because it
+tells you whether the startup is financially sophisticated and can put together
+a good financial model, which is a good general indicator of their maturity.&lt;/p&gt;
+
+&lt;p&gt;My position goes one step further: it’s not just the forecasts that never
+survive first contact with reality, it’s the entire business model.
+Some parts will be harder, others will be easier, and some will change altogether.
+Add random macro-scale perturbations like COVID, recessions, regulatory shifts,
+and you can assume that &lt;em&gt;any&lt;/em&gt; early-stage business model is subject to great
+change, so much so that you might discard it altogether.
+However, evaluating it still has significant value
+in that it
+tells you about the thoughtfulness of the founders, which is critical.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;So I don’t invest in business models. I invest in great founders
+who are gritty, resourceful, and can assemble great teams. I treat finances and business models like
+brain-teasers in interviews; performative exercises that are fun to debate
+and tell me a lot about the maturity of the underlying entrepreneur,
+but I almost completely discard their content.&lt;/p&gt;
+
+&lt;p&gt;Finally, don’t believe me? Let’s take a look at these giants
+and tell me whether you would have “invested in the business model”
+when they were founded.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A 2009 2D Browser MMO. Just another video game in an endless
+  sea of competitors. This eventually became &lt;strong&gt;Slack&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;A 2012 video conferencing platform, when there were hundreds
+  of competitors and the market was locked down by Microsoft and Google.
+  This moatless company became &lt;strong&gt;Zoom&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;A 2005 video-based online dating service. &lt;strong&gt;YouTube&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;A 1994 online bookshop. &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;A 2006 online snowboard equipment shop. &lt;strong&gt;Shopify&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Too much business risk? You love the tech but there’s no moat?
+You want a network effect? Try betting on the founder instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+
+      &lt;p&gt;I suspect these topics get attention for two reasons:&lt;/p&gt;
+
+      &lt;p&gt;&lt;strong&gt;(a)&lt;/strong&gt; They add an air of intellectual legitimacy to venture investing.
+    Like technical analysis for stocks, it adds pseudo-rigor,
+    making the process of investing look more scientific.
+    Sometimes these patterns are truthfully there, but they are usually
+    only apparent in retrospect.&lt;/p&gt;
+
+      &lt;p&gt;&lt;strong&gt;(b)&lt;/strong&gt; It’s just marketing for VCs. In this industry, it takes ten years
+    before you figure out whether someone is actually good or not.
+    In the absence of that evidence, for most VCs the entire game is marketing
+    and making themselves sound as smart as possible, where buzzword business-school
+    theories are very helpful for conning rubes. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;There are some counterexamples of “Great Teams that Failed”.
+&lt;a href=&quot;https://en.wikipedia.org/wiki/General_Magic&quot;&gt;General Magic&lt;/a&gt;
+is a good example, but closer inspection usually reveals that part of the team was really lacking.
+For example, General Magic certainly had the best technologists of the day,
+but the &lt;em&gt;actual product being shipped&lt;/em&gt;, thanks to weak management, was hot garbage.
+It is a special tragedy when a company has a partially excellent team
+and a partially terrible team, because the lowest common denominator
+usually dominates the outcome. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;In other words, if I’m not 100% on board with the business model but
+I believe in the founder, I’ll invest. If the business model is actually implausible,
+then the founder has not thought deeply enough, and I’m out. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">I am an angel investor. I have been investing personally in early-stage companies, Pre-Seed through Series B, since 2015. I do it not for money but for love of the game; the greatest pleasure to me is to learn from entrepreneurs smarter than me, and help them succeed.</summary></entry><entry><title type="html">For the Future of Work, Look to Gaming</title><link href="http://localhost:4000/2020/09/06/work.html" rel="alternate" type="text/html" title="For the Future of Work, Look to Gaming" /><published>2020-09-06T00:00:00-07:00</published><updated>2020-09-06T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/06/work</id><content type="html" xml:base="http://localhost:4000/2020/09/06/work.html">&lt;p&gt;In 2002, my mom started a new job in finance.
 One day, I visited her office.
 As part of the grand tour, she showed me her
 Lotus Notes setup on her PC, and explained that she received around 400 emails a day.
@@ -1329,104 +1441,4 @@ like me who rarely/never get dirty in the first place, shampoo
 seems like a relic from another time. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">In December 2019, my girlfriend mentioned that my hair smelled unusually good. What was I doing differently? Nothing, I thought. Everything was just as always. Except that I had run out of shampoo a few weeks prior, and hadn’t noticed until then.</summary></entry><entry><title type="html">No More Coffee</title><link href="http://localhost:4000/2020/06/30/coffee.html" rel="alternate" type="text/html" title="No More Coffee" /><published>2020-06-30T00:00:00-07:00</published><updated>2020-06-30T00:00:00-07:00</updated><id>http://localhost:4000/2020/06/30/coffee</id><content type="html" xml:base="http://localhost:4000/2020/06/30/coffee.html">&lt;p&gt;I never identified as a coffee snob or someone with a serious habit –
-like everyone else, I made lots of self-deprecating jokes about how much coffee I drank –
-until one day I realized that I had been drinking more coffee than anyone else I knew for the past fifteen years.&lt;/p&gt;
-
-&lt;p&gt;I started drinking coffee in high school. I would stay up all night competitively playing video games,
-and then head to school on two or three hours of sleep. If I tried to attend class,
-I would immediately pass out on my desk. There was a coffee machine in the cafeteria,
-where I would solve that problem by purchasing a cup of scalding-hot black coffee for fifty cents.
-It was shitty coffee, and I hated the flavor. But I needed it, and took the bitterness as
-fair punishment for not sleeping.
-That cup got me
-wired – the caffeine rush would electrify my body, and
-my hand would shake erratic, two-inch tall letters out of my Pilot V5.&lt;/p&gt;
-
-&lt;p&gt;Two hours later, I’d get another cup, and that would last me into the early afternoon.
-I’d crash and fall asleep in class at 1:50pm, like clockwork. I’d get another cup at 2:00pm
-between classes, to carry me through the rest of the day.
-When I took my finals before graduating, the principal sent out a grade-wide
-complaint that too many coffee cups got littered outside the exam rooms. They were all mine.
-My #1 concern in high school was
-dying of a heart attack due to my completely insane sleep and caffeine habits.&lt;/p&gt;
-
-&lt;p&gt;Somehow I survived high school. My sleep patterns would,
-over the course of the years, very slowly approach those of a normal person,
-but coffee stuck. I would drink it to help stay up late, or to wake me up
-after a short night. When things got really urgent I’d supplement with some Red Bull.
-My tastes advanced a little bit: I quit the punitive straight black coffee,
-and experimented with extravagances like sugar and milk. As I started to work
-internships near Starbuckses, I would get vanilla-hazelnut lattes, and my
-coffee runs were known for their consistency and punctuality.&lt;/p&gt;
-
-&lt;p&gt;After college and graduate school, things kicked up a notch. Lots of people
-define their persona by their love of coffee, and I chose to be one of those.
-I drank coffee – lattes, in particular – religiously. My first business card’s title read &lt;em&gt;Caffeine Fiend&lt;/em&gt;.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
-I systematically sampled nearly every single cafe in San Francisco.
-Weirdly, I knew I didn’t really love lattes. I liked them, but a latte can ultimately only be so good.
-They were a habit, something I’d been doing for a long time, and had made
-part of my persona.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Besides, I needed the kick. I realized that coffee
-was useful in technical, creative work not because it increases wakefulness,
-but because it increases &lt;em&gt;focus&lt;/em&gt;. I had a latte machine in the office and a company to build,
-so at some point I hit ten cups a day.&lt;/p&gt;
-
-&lt;p&gt;Enter March 2020. I had moved offices – no more free coffee – and was
-spending more on cinnamon lattes than some people spend on their mortgage.
-I was more cautious than most about COVID-19, and started isolating myself
-in early March. Being a coffee addict but not a true aficionado, I did not own
-anything in the way of a coffee machine. (I have never made much use of my kitchen.)
-I had no way to make coffee at home,
-and due to COVID I wasn’t in the mood to go out shopping. Almost four months later,
-I still haven’t had any coffee.&lt;/p&gt;
-
-&lt;p&gt;Losing coffee was unpleasant at first.
-Abandoning a ritual can make the rest of the day feel weirdly incomplete.
-But I soon stopped missing or thinking about it.
-My quality of life had improved.
-With coffee, the regular motions of the day become exaggerated – there would be spikes of focus
-and the feeling of productivity&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;,
-but there would also be caffeine crashes every four hours.
-The days that I used caffeine to push myself too far would invariably end in long headaches.
-I often felt very seriously drained at the end of the workday, and couldn’t do anything in the evening.&lt;/p&gt;
-
-&lt;p&gt;The last four months, without coffee, have been much better.
-No headaches. No crashes.
-Consequently – and ironically – I’m now probably &lt;em&gt;more awake&lt;/em&gt; on average throughout the day.
-I’ve been very surprised by how little I actually needed the caffeine, even in the morning after a short night.
-Thus, I’m not sure how much value caffeine actually provided me over the past few working
-years. I had so much of it that the beneficial effects certainly wore off (I would
-even drink coffee right before going to sleep). However, the downsides of
-coffee – trading in later energy to have more focus now, the drain and crash later in the day –
-never wore off.&lt;/p&gt;
-
-&lt;p&gt;Ultimately, as COVID wraps up and things go back to normal,
-I don’t feel the need
-to pick up coffee again. Maybe I’ll try decaf for the
-pleasure of an evening latte, but I’m happy to kick the habit.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-
-      &lt;p&gt;Cringe, I know. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-
-      &lt;p&gt;For me, this triggered careful introspection about whether I
-really derived pleasure from the things I claimed to like, or whether those
-claims were really just signaling about the person I would like to be, rather than who I actually am. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-
-      &lt;p&gt;The jury is still out on how much more productive I &lt;em&gt;actually&lt;/em&gt; was, if at all. I wonder if there’s
-some counter-intuitive effect by which access to coffee encourages worse sleep
-(because you can stay up late and then just drink coffee when you’re tired)
-which leaves you less productive overall. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">I never identified as a coffee snob or someone with a serious habit – like everyone else, I made lots of self-deprecating jokes about how much coffee I drank – until one day I realized that I had been drinking more coffee than anyone else I knew for the past fifteen years.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">In December 2019, my girlfriend mentioned that my hair smelled unusually good. What was I doing differently? Nothing, I thought. Everything was just as always. Except that I had run out of shampoo a few weeks prior, and hadn’t noticed until then.</summary></entry></feed>
