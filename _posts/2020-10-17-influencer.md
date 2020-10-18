@@ -3,7 +3,6 @@ layout: post
 title: "Influencers as Tech Founders: Real Monetization at Last"
 date:   2020-10-17
 summary: Customer acquisition is usually the most expensive part of building a consumer software business. This puts social media influencers in an exceptionally good position to monetize their followers.
-published: true
 ---
 
 
