@@ -106,6 +106,6 @@ In the past, consumer tech made influencers. Soon, influencers will make consume
 
 ---
 
-[^1]: Dobrik commented that he had some advertiser issues
+[^1]: Dobrik commented that he had some advertising issues
     that shrunk his earnings on some of his videos by 99%, but I suspect this
     was a temporary issue.
