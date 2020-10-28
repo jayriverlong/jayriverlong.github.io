@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-27T22:36:08-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">No More Bold Visions of the Future</title><link href="http://localhost:4000/2020/10/24/future.html" rel="alternate" type="text/html" title="No More Bold Visions of the Future" /><published>2020-10-24T00:00:00-07:00</published><updated>2020-10-24T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/24/future</id><content type="html" xml:base="http://localhost:4000/2020/10/24/future.html">&lt;p&gt;What do I want the future to be like?
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-27T22:45:22-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Two Paradigms of Personal Computing</title><link href="http://localhost:4000/2020/10/27/machines.html" rel="alternate" type="text/html" title="Two Paradigms of Personal Computing" /><published>2020-10-27T00:00:00-07:00</published><updated>2020-10-27T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/27/machines</id><content type="html" xml:base="http://localhost:4000/2020/10/27/machines.html">&lt;p&gt;A frequently recurring staple of Hacker News is the &lt;em&gt;personal computing rant&lt;/em&gt;:
+modern computers are black boxes, far too locked down.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
+We long for our desktop computers, the early-2000s computing paradigm,
+and we want to take back control of our data.&lt;/p&gt;
+
+&lt;p&gt;I sympathize greatly with this view.
+For the past five years, I have exclusively run Arch Linux.
+I love the early-2000s style of personal computing: text-heavy interfaces,
+words rather than icons, uniform keyboard shortcuts everywhere.
+I do nearly all my computing in emacs.
+It is feature rich, and no product manager is ever going to change the experience, interface, or shortcuts.
+My workspace allows me to be &lt;em&gt;fast&lt;/em&gt;.
+Contrary to much modern software, emacs responds instantaneously to my keystrokes.
+Every action has an immediate effect, clear on the page, with no background process ambiguity.
+This is enormously satisfying.
+I would characterize this computing environment as a
+spiritual descendant of the typewriter:
+on its own, it is a dumb machine, but when you command it, it becomes a powerful
+extension of you.
+The user experience is given by speed, smoothness, reliability, and nothing else.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, you’ve got iPhones and iPads.
+These are not machines that you command – on the contrary, you might argue
+that all their notifications command you. With touch interfaces,
+facial recognition, and
+voice control, these are machines that are meant to merge with you.
+Instead of becoming an &lt;em&gt;extension&lt;/em&gt; of you, it becomes &lt;em&gt;part&lt;/em&gt; of you.
+Instead of you commanding it, it is meant to anticipate your commands.
+Where is the data? How does it work? Who knows. They’re total black boxes,
+effectively indistinguishable from magic, whereas your Linux Desktop is a
+DIYable simple machine.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Many contemporary writers think of personal computing as
+one paradigm that is gradually evolving. I disagree: I think there are two,
+deeply different paradigms of personal computing, reflecting deeply different desires.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Machine as extension of the self (your Windows XP Desktop).&lt;/li&gt;
+  &lt;li&gt;Machine as part of the self (your iPhone).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Plenty of devices exist in the space in-between. Android phones
+try to give you some control back over your device, by which they necessarily
+preclude themselves from truly being &lt;em&gt;part&lt;/em&gt; of you. Modern versions of OS X,
+with the touchbar, Siri, and integrations into all your other Apple devices, are
+starting to make the leap from extending the self to being part of the self.&lt;/p&gt;
+
+&lt;p&gt;As a genre, the personal computing rant comes out of the correct view that
+these are all forms of personal computing, but it fails to recognize that
+within this broad umbrella, we’ve seen paradigms arise that differ in both
+intent and the human desire they’re meant to meet.
+It’s not that one
+class of devices is replacing the other.
+They are fundamentally different, and one paradigm succeeds where the other
+falls short of meeting the consumers’ needs.
+The terminal never met the needs of those who want Amazon Alexa, and vice-versa.&lt;/p&gt;
+
+&lt;p&gt;I live in the in-between. I happily imagine a world where my Apple Watch
+monitors my glucose and blood oxygen, my Eight Sleep quantifies my rest,
+I mark up documents on giant touchscreens, but I sit on a clacky
+IBM keyboard to write code and blog posts in a terminal that hasn’t changed
+in twenty years. While your iPhone might meld with your mind by quantifying
+and anticipating your every need, my terminal melds with my mind by
+being fast, constant, and &lt;em&gt;always&lt;/em&gt; correct. Each has its place, and I would
+never trade one for the other.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This essay was inspired by a recent hit on Hacker News,
+in which the &lt;a href=&quot;http://misc-stuff.terraaeon.com/articles/locked-down-computers.html&quot;&gt;Author is Seriously Considering Going Back to Desktop Computers&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;To me, a Linux desktop is almost more like a typewriter than it is like an iPhone.
+I can peek inside and understand how most of the tech works.
+I can debug it, swap out components, and so on.
+It’s like a mechanism of levers and cogs: complicated, perhaps, but understandable
+and possible to reason deeply about. An iPhone is inaccessible in all these
+respects; it might as well be a magic wand. That’s not necessarily a bad thing,
+these are just very different classes of object. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">A frequently recurring staple of Hacker News is the personal computing rant: modern computers are black boxes, far too locked down.1 We long for our desktop computers, the early-2000s computing paradigm, and we want to take back control of our data. This essay was inspired by a recent hit on Hacker News, &amp;#8617;</summary></entry><entry><title type="html">No More Bold Visions of the Future</title><link href="http://localhost:4000/2020/10/24/future.html" rel="alternate" type="text/html" title="No More Bold Visions of the Future" /><published>2020-10-24T00:00:00-07:00</published><updated>2020-10-24T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/24/future</id><content type="html" xml:base="http://localhost:4000/2020/10/24/future.html">&lt;p&gt;What do I want the future to be like?
 What amazing inventions do I want to see, and help build in my lifetime?
 I realized this morning that I don’t know.
 I was shocked.&lt;/p&gt;
@@ -115,84 +201,7 @@ stalwart efforts to return us to an era of supersonic flight, and
 Founders Fund’s &lt;a href=&quot;https://twitter.com/foundersfund/status/1313151184287477767?s=20&quot;&gt;opening notes&lt;/a&gt; to their annual meeting. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">What do I want the future to be like? What amazing inventions do I want to see, and help build in my lifetime? I realized this morning that I don’t know. I was shocked.</summary></entry><entry><title type="html">Two Paradigms of Personal Computing</title><link href="http://localhost:4000/2020/10/24/machines.html" rel="alternate" type="text/html" title="Two Paradigms of Personal Computing" /><published>2020-10-24T00:00:00-07:00</published><updated>2020-10-24T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/24/machines</id><content type="html" xml:base="http://localhost:4000/2020/10/24/machines.html">&lt;p&gt;A frequently recurring staple of Hacker News is the &lt;em&gt;personal computing rant&lt;/em&gt;:
-modern computers are black boxes, far too locked down.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
-We long for our desktop computers, the early-2000s computing paradigm,
-and we want to take back control of our data.&lt;/p&gt;
-
-&lt;p&gt;I sympathize greatly with this view.
-For the past five years, I have exclusively run Arch Linux.
-I love the early-2000s style of personal computing: text-heavy interfaces,
-words rather than icons, uniform keyboard shortcuts everywhere.
-I do nearly all my computing in emacs.
-It is feature rich, and no product manager is ever going to change the experience, interface, or shortcuts.
-My workspace allows me to be &lt;em&gt;fast&lt;/em&gt;.
-Contrary to much modern software, emacs responds instantaneously to my keystrokes.
-Every action has an immediate effect, clear on the page, with no background process ambiguity.
-This is enormously satisfying.
-I would characterize this computing environment as a
-spiritual descendant of the typewriter:
-on its own, it is a dumb machine, but when you command it, it becomes a powerful
-extension of you.
-The user experience is given by speed, smoothness, reliability, and nothing else.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, you’ve got iPhones and iPads.
-These are not machines that you command – on the contrary, you might argue
-that all their notifications command you. With touch interfaces,
-facial recognition, and
-voice control, these are machines that are meant to merge with you.
-Instead of becoming an &lt;em&gt;extension&lt;/em&gt; of you, it becomes &lt;em&gt;part&lt;/em&gt; of you.
-Instead of you commanding it, it is meant to anticipate your commands.
-Where is the data? How does it work? Who knows. They’re total black boxes,
-effectively indistinguishable from magic, whereas your Linux Desktop is a
-DIYable simple machine.&lt;/p&gt;
-
-&lt;p&gt;Many contemporary writers think of personal computing as
-one paradigm that is gradually evolving. I disagree: I think there are two,
-deeply different paradigms of personal computing, reflecting deeply different desires.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Machine as extension of the self (your Windows XP Desktop).&lt;/li&gt;
-  &lt;li&gt;Machine as part of the self (your iPhone).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Plenty of devices exist in the space in-between. Android phones
-try to give you some control back over your device, by which they necessarily
-preclude themselves from truly being &lt;em&gt;part&lt;/em&gt; of you. Modern versions of OS X,
-with the touchbar, Siri, and integrations into all your other Apple devices, are
-starting to make the leap from extending the self to being part of the self.&lt;/p&gt;
-
-&lt;p&gt;As a genre, the personal computing rant comes out of the correct view that
-these are all forms of personal computing, but it fails to recognize that
-within this broad umbrella, we’ve seen paradigms arise that differ in both
-intent and the human desire they’re meant to meet.
-It’s not that one
-class of devices is replacing the other.
-They are fundamentally different, and one paradigm succeeds where the other
-falls short of meeting the consumers’ needs.
-The terminal never met the needs of those who want Amazon Alexa, and vice-versa.&lt;/p&gt;
-
-&lt;p&gt;I live in the in-between. I happily imagine a world where my Apple Watch
-monitors my glucose and blood oxygen, my Eight Sleep quantifies my rest,
-I mark up documents on giant touchscreens, but I sit on a clacky
-IBM keyboard to write code and blog posts in a terminal that hasn’t changed
-in twenty years. While your iPhone might meld with your mind by quantifying
-and anticipating your every need, my terminal melds with my mind by
-being fast, constant, and &lt;em&gt;always&lt;/em&gt; correct. Each has its place, and I would
-never trade one for the other.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;This essay was inspired by a recent hit on Hacker News,
-in which the &lt;a href=&quot;http://misc-stuff.terraaeon.com/articles/locked-down-computers.html&quot;&gt;Author is Seriously Considering Going Back to Desktop Computers&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">A frequently recurring staple of Hacker News is the personal computing rant: modern computers are black boxes, far too locked down.1 We long for our desktop computers, the early-2000s computing paradigm, and we want to take back control of our data. This essay was inspired by a recent hit on Hacker News, &amp;#8617;</summary></entry><entry><title type="html">Influencers as Tech Founders: Real Monetization at Last</title><link href="http://localhost:4000/2020/10/17/influencer.html" rel="alternate" type="text/html" title="Influencers as Tech Founders: Real Monetization at Last" /><published>2020-10-17T00:00:00-07:00</published><updated>2020-10-17T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/17/influencer</id><content type="html" xml:base="http://localhost:4000/2020/10/17/influencer.html">&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/David_Dobrik&quot;&gt;David Dobrik&lt;/a&gt;,
+&lt;/div&gt;</content><author><name></name></author><summary type="html">What do I want the future to be like? What amazing inventions do I want to see, and help build in my lifetime? I realized this morning that I don’t know. I was shocked.</summary></entry><entry><title type="html">Influencers as Tech Founders: Real Monetization at Last</title><link href="http://localhost:4000/2020/10/17/influencer.html" rel="alternate" type="text/html" title="Influencers as Tech Founders: Real Monetization at Last" /><published>2020-10-17T00:00:00-07:00</published><updated>2020-10-17T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/17/influencer</id><content type="html" xml:base="http://localhost:4000/2020/10/17/influencer.html">&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/David_Dobrik&quot;&gt;David Dobrik&lt;/a&gt;,
 a YouTube star with 26 million followers, is launching a social media app
 called &lt;a href=&quot;https://apps.apple.com/us/app/dispo-live-in-the-moment/id1491684197&quot;&gt;Dispo&lt;/a&gt;.
 There’s a good chance it turns him into a billionaire.&lt;/p&gt;
