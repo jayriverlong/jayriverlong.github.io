@@ -26,7 +26,7 @@ I also post blog updates on my [substack](https://jayriverlong.substack.com/) em
 
 ## Tips
 
-Like my work? Send me BTC: `bc1q24u5ddj09qunvdzz59m852khq8c7cm9c4rlxxw`
+Like my work? Send me BTC: `bc1q5rphhejxmg0mzatv79l6wyasaee8qakq202mj3`
 
 ## Website
 
