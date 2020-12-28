@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-27T18:04:31-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Bitcoin and Secrecy</title><link href="http://localhost:4000/2020/12/27/bitcoin.html" rel="alternate" type="text/html" title="Bitcoin and Secrecy" /><published>2020-12-27T00:00:00-08:00</published><updated>2020-12-27T00:00:00-08:00</updated><id>http://localhost:4000/2020/12/27/bitcoin</id><content type="html" xml:base="http://localhost:4000/2020/12/27/bitcoin.html">&lt;p&gt;Growing up, I read mysteries and pirate stories. Buried treasure, hidden behind
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-27T18:10:25-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Bitcoin and Secrecy</title><link href="http://localhost:4000/2020/12/27/bitcoin.html" rel="alternate" type="text/html" title="Bitcoin and Secrecy" /><published>2020-12-27T00:00:00-08:00</published><updated>2020-12-27T00:00:00-08:00</updated><id>http://localhost:4000/2020/12/27/bitcoin</id><content type="html" xml:base="http://localhost:4000/2020/12/27/bitcoin.html">&lt;p&gt;Growing up, I read mysteries and pirate stories. Buried treasure, hidden behind
 cryptic puzzles. I read Dan Brown novels about secret societies and great meanings
 hidden in small messages. In the modern day, it seemed that this romantic notion
 of secrecy – that great wealth can be hidden in small messages – was over forever.
@@ -15,7 +15,8 @@ the key, and remember just those twelve words.&lt;/p&gt;
 
 &lt;p&gt;Turn your passphrase into a song or a poem and write it down, there’s your cryptic puzzle
 hiding a treasure. Split it into pieces and hide them with seven objects in
-obscure corners of the world, there are your horcruxes.&lt;/p&gt;
+obscure corners of the world, there are your horcruxes. There’s the substrate of
+true ownership, of guarding treasure, and the mystery stories of old.&lt;/p&gt;
 
 &lt;p&gt;The simplicity of Bitcoin – that ownership of a few words, short enough to be
 remembered, can store arbitrary, uncensorable wealth – re-creates that romantic
