@@ -1,4 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-27T18:10:25-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Bitcoin and Secrecy</title><link href="http://localhost:4000/2020/12/27/bitcoin.html" rel="alternate" type="text/html" title="Bitcoin and Secrecy" /><published>2020-12-27T00:00:00-08:00</published><updated>2020-12-27T00:00:00-08:00</updated><id>http://localhost:4000/2020/12/27/bitcoin</id><content type="html" xml:base="http://localhost:4000/2020/12/27/bitcoin.html">&lt;p&gt;Growing up, I read mysteries and pirate stories. Buried treasure, hidden behind
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-07T21:14:51-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Institutional Seed Rounds are a Bad Idea for Founders</title><link href="http://localhost:4000/2021/02/07/seed.html" rel="alternate" type="text/html" title="Institutional Seed Rounds are a Bad Idea for Founders" /><published>2021-02-07T00:00:00-08:00</published><updated>2021-02-07T00:00:00-08:00</updated><id>http://localhost:4000/2021/02/07/seed</id><content type="html" xml:base="http://localhost:4000/2021/02/07/seed.html">&lt;p&gt;I wrote my first angel checks in 2014. I’ve now written almost 70.
+The landscape has changed greatly: back in the day,
+I would see seed rounds valued at $4-8M post-money, with $1-2M invested
+so the investors would get about 25% of the company.
+To boot, the lead investor would usually get a board seat,
+and the company would take another 10% dilution in form of an options pool.&lt;/p&gt;
+
+&lt;p&gt;In 2021, deals at $4-8M post-money are called pre-seeds.
+Today’s seed has crept toward the Series A of old, with post-money valuations
+generally not below $10M, the median in the $12M-15M range, and the high end
+at $20M or beyond.&lt;/p&gt;
+
+&lt;p&gt;It’s fantastic that founders are able to raise at greater valuations, and commensurately more money.
+Instead of raising $1M at $4M post, founders today are raising $3M at $12M post. That’s great, right?&lt;/p&gt;
+
+&lt;p&gt;Well, maybe. You’ll notice that the &lt;em&gt;investor ownership&lt;/em&gt; at the seed stage – 25% – is the only
+element that has remained constant. The founder is still &lt;em&gt;selling the same amount of the company&lt;/em&gt;.
+They’re getting more dollars in return. Is that a good deal?&lt;/p&gt;
+
+&lt;p&gt;Again, maybe. Dollars in the bank have diminishing returns for a seed-stage founder.
+Can you make productive use of $250K on day one? Totally. $1M? Probably, over 12-18 months.
+$3M? It gets harder to allocate larger amounts of capital efficiently.&lt;/p&gt;
+
+&lt;p&gt;This is compounded by the fact that successful startups are now raising rounds &lt;em&gt;faster&lt;/em&gt; than before.
+VCs are hungry to deploy capital, so follow-on rounds and pre-empts are happening more than before.
+I’ve seen companies raise their Series As at good valuations while only half-way to the “traditional” Series A
+benchmark. I’ve seen Series Bs three months after the A. And so on.&lt;/p&gt;
+
+&lt;p&gt;The result is that good companies are raising, at the seed stage, capital they will &lt;em&gt;never&lt;/em&gt; deploy.
+And that’s a waste of the dilution they take on.&lt;/p&gt;
+
+&lt;p&gt;Strong startups are raising monster seed rounds, $3M plus.
+In the old paradigm, that would be for a 18-24 month runway,
+so implying an average spend of $125-167k a month.
+Actually doing that &lt;em&gt;productively&lt;/em&gt; is hard.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
+It implies building a 15+ person team.
+That’s tough in itself. But now you actually need to deploy &lt;em&gt;even faster&lt;/em&gt;,
+because the old paradigm has been broken.
+If you’re good, you may no longer need 18 or 24 months to get to the Series A.
+You’ll get there in 12 months.&lt;/p&gt;
+
+&lt;p&gt;So, suppose you raised a $3M seed, and you get to your Series A in 12 months.
+You’ve still got $2M in the bank.
+You &lt;em&gt;paid&lt;/em&gt; 17% of your company – a co-founder-level chunk – for that capital.
+You gave away a board seat. You swallowed the options pool shuffle.
+All that for capital that you now don’t need.&lt;/p&gt;
+
+&lt;p&gt;You raise your Series A.
+The press will cheer you on for being capital efficient.
+Your friends will congratulate you on the great brand name that’s getting put on your website
+and on your board. And you will bow and shake hands and perform all the social graces,
+with the venture capital force-feeding tube still
+hanging out of your mouth. But knowing that you’ve thrown away 17% of your company
+at the seed should make you sick to your stomach.&lt;/p&gt;
+
+&lt;p&gt;So maybe you’ll raise a smaller seed. You’d like the same valuation, of course.
+But the institutions won’t like that.
+“Sorry, we have a minimum ownership requirement of 20%”, they’ll tell you.
+Needless to say, minimum ownership requirements are bullshit.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;So what is a founder to do? The simple answer is to abandon the institutional raise,
+and stick solely with angels and angel-style investors. This is another big change since 2014:
+the number of angels in the market must have increased 100-fold. I’m being hyperbolic,
+but it feels like half the valley is angel investing these days.
+&lt;em&gt;Everyone&lt;/em&gt;, VC firms and individuals alike, are aggressively deploying capital.
+It’s now well possible to put together a multi-million dollar round without a traditional venture firm
+involved: the best example is probably &lt;a href=&quot;https://tech.eu/brief/front-series-c/&quot;&gt;Front’s Series C&lt;/a&gt;,
+a $59M round led entirely
+by individuals, with traditional VC firms only getting small allocations.&lt;/p&gt;
+
+&lt;p&gt;There are three other key benefits to skipping the institutions as you break your round down
+for many smaller checks:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The use of SAFEs enables &lt;a href=&quot;http://www.paulgraham.com/hiresfund.html&quot;&gt;high-resolution fundraising&lt;/a&gt;.
+Close parties as they commit. You
+no longer need to get everyone together in an institutional round to close. (Of all rounds that collapse,
+timing is usually the main factor.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No board seats. If you don’t have a lead investor, then no investor has the muscle to negotiate
+themselves meaningful corporate control.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Many small investors who hustle usually constitute a bigger, more helpful network than your one point-person at a VC firm,
+ particularly for early-stage companies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You dictate the deal terms. Again, with no lead investor, no-one has the muscle to force better terms for themselves.
+ You’re in control.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It’s a competitive time in the market. Many people, myself included, have written
+about how &lt;a href=&quot;https://jayriverlong.github.io/2020/08/16/spac.html&quot;&gt;personal brands are disrupting venture capital&lt;/a&gt;
+via Rolling Funds and other mechanisms. it turns out that going with the newly liquid kids on the block
+has material advantages over going with the capital gatekeepers of old. This is good.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Startups can burn capital aggressively, pay for top-tier services and best-in-class salaries,
+but that kind of spending culture usually sets up for difficult conversations about operating
+economics at later stages, so I can’t recommend it. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;There are many respects in which they are bullshit, and many reasons for it,
+but &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">I wrote my first angel checks in 2014. I’ve now written almost 70. The landscape has changed greatly: back in the day, I would see seed rounds valued at $4-8M post-money, with $1-2M invested so the investors would get about 25% of the company. To boot, the lead investor would usually get a board seat, and the company would take another 10% dilution in form of an options pool.</summary></entry><entry><title type="html">Bitcoin and Secrecy</title><link href="http://localhost:4000/2020/12/27/bitcoin.html" rel="alternate" type="text/html" title="Bitcoin and Secrecy" /><published>2020-12-27T00:00:00-08:00</published><updated>2020-12-27T00:00:00-08:00</updated><id>http://localhost:4000/2020/12/27/bitcoin</id><content type="html" xml:base="http://localhost:4000/2020/12/27/bitcoin.html">&lt;p&gt;Growing up, I read mysteries and pirate stories. Buried treasure, hidden behind
 cryptic puzzles. I read Dan Brown novels about secret societies and great meanings
 hidden in small messages. In the modern day, it seemed that this romantic notion
 of secrecy – that great wealth can be hidden in small messages – was over forever.
@@ -15,8 +130,8 @@ the key, and remember just those twelve words.&lt;/p&gt;
 
 &lt;p&gt;Turn your passphrase into a song or a poem and write it down, there’s your cryptic puzzle
 hiding a treasure. Split it into pieces and hide them with seven objects in
-obscure corners of the world, there are your horcruxes. There’s the substrate of
-true ownership, of guarding treasure, and the mystery stories of old.&lt;/p&gt;
+obscure corners of the world, there are your horcruxes. There’s the substrate for
+true ownership, for guarding treasure, and for the mystery stories of old.&lt;/p&gt;
 
 &lt;p&gt;The simplicity of Bitcoin – that ownership of a few words, short enough to be
 remembered, can store arbitrary, uncensorable wealth – re-creates that romantic
@@ -1002,116 +1117,4 @@ a Stripe bank account. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootn
 is strictly software (for example, accounting or legal services). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Stripe is a well-known innovator in digital payments. They attacked one of the most intimidating and locked-down markets, and made it look like child’s play. They have a compounding competitive edge in processing payments more efficiently for their customers, and the best-crafted APIs in the entire industry. Stripe is admired on these grounds, and more: they have their own press, in line with their thoughtful, public intellectual staff.</summary></entry><entry><title type="html">Never Invest in the Business Model</title><link href="http://localhost:4000/2020/09/12/angel.html" rel="alternate" type="text/html" title="Never Invest in the Business Model" /><published>2020-09-12T00:00:00-07:00</published><updated>2020-09-12T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/12/angel</id><content type="html" xml:base="http://localhost:4000/2020/09/12/angel.html">&lt;p&gt;I am an angel investor. I have been investing personally in early-stage companies,
-Pre-Seed through Series B, since 2015. I do it not for money but for love of the game;
-the greatest pleasure to me is to learn from entrepreneurs smarter than me, and help them succeed.&lt;/p&gt;
-
-&lt;p&gt;Over the last five years, as I look at my wins and misses, one thing seems clear:
-at the earliest stages, business models do not matter at all.
-This is a deeply unpopular
-position, in part because philosopher-king VCs love to talk about business abstractions
-and ask about moats, network effects, returns to scale, value chains, innovator’s dilemmas and so forth.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
-But at the seed stage, very little of this matters.&lt;/p&gt;
-
-&lt;p&gt;Startups rarely stick to the original business plan.
-There’s always a pivot: sometimes in the product, sometimes in go-to-market,
-sometimes in the whole thing. In addition, exogenous shocks (COVID-19 being a great example)
-perturb the best laid plans of mice and men, and every startup eventually finds itself
-in deep and unfamiliar waters.
-These are the moments that dictate success or failure, and what matters then?
-Cash in the bank, and the nimbleness and thoughtfulness of the team. Those are the only things.&lt;/p&gt;
-
-&lt;p&gt;I’ve had a lot of run-ins with this pattern over the last eight months due to COVID.
-The businesses that were most vulnerable to COVID (and, inversely, least able
-to take advantage of COVID) were the ones that were most exposed to their
-own business plans, that had the least nimble founders, and left the least
-optionality for pivots.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, great teams always have a leg up.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;So, my position is that the business model at the pre-seed/seed stage doesn’t matter.
-It’s barely worth diligencing. This gets me a lot of flak from other investors,
-presumably because they feel smart when they write their multi-page memos,
-and here I am saying that the emperor has no clothes.&lt;/p&gt;
-
-&lt;p&gt;A similar, and somewhat more popular position, is that startup financials don’t matter.
-If you barely have revenue, your future forecasts are worthless. Reality
-will always differ greatly, and anyone with a pulse
-knows this.
-However, looking at a startup’s forecasts is still valuable, because it
-tells you whether the startup is financially sophisticated and can put together
-a good financial model, which is a good general indicator of their maturity.&lt;/p&gt;
-
-&lt;p&gt;My position goes one step further: it’s not just the forecasts that never
-survive first contact with reality, it’s the entire business model.
-Some parts will be harder, others will be easier, and some will change altogether.
-Add random macro-scale perturbations like COVID, recessions, regulatory shifts,
-and you can assume that &lt;em&gt;any&lt;/em&gt; early-stage business model is subject to great
-change, so much so that you might discard it altogether.
-However, evaluating it still has significant value
-in that it
-tells you about the thoughtfulness of the founders, which is critical.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;So I don’t invest in business models. I invest in great founders
-who are gritty, resourceful, and can assemble great teams. I treat finances and business models like
-brain-teasers in interviews; performative exercises that are fun to debate
-and tell me a lot about the maturity of the underlying entrepreneur,
-but I almost completely discard their content.&lt;/p&gt;
-
-&lt;p&gt;Finally, don’t believe me? Let’s take a look at these giants
-and tell me whether you would have “invested in the business model”
-when they were founded.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A 2009 2D Browser MMO. Just another video game in an endless
-  sea of competitors. This eventually became &lt;strong&gt;Slack&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;A 2012 video conferencing platform, when there were hundreds
-  of competitors and the market was locked down by Microsoft and Google.
-  This moatless company became &lt;strong&gt;Zoom&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;A 2005 video-based online dating service. &lt;strong&gt;YouTube&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;A 1994 online bookshop. &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;A 2006 online snowboard equipment shop. &lt;strong&gt;Shopify&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Too much business risk? You love the tech but there’s no moat?
-You want a network effect? Try betting on the founder instead.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-
-      &lt;p&gt;I suspect these topics get attention for two reasons:&lt;/p&gt;
-
-      &lt;p&gt;&lt;strong&gt;(a)&lt;/strong&gt; They add an air of intellectual legitimacy to venture investing.
-    Like technical analysis for stocks, it adds pseudo-rigor,
-    making the process of investing look more scientific.
-    Sometimes these patterns are truthfully there, but they are usually
-    only apparent in retrospect.&lt;/p&gt;
-
-      &lt;p&gt;&lt;strong&gt;(b)&lt;/strong&gt; It’s just marketing for VCs. In this industry, it takes ten years
-    before you figure out whether someone is actually good or not.
-    In the absence of that evidence, for most VCs the entire game is marketing
-    and making themselves sound as smart as possible, where buzzword business-school
-    theories are very helpful for conning rubes. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;There are some counterexamples of “Great Teams that Failed”.
-&lt;a href=&quot;https://en.wikipedia.org/wiki/General_Magic&quot;&gt;General Magic&lt;/a&gt;
-is a good example, but closer inspection usually reveals that part of the team was really lacking.
-For example, General Magic certainly had the best technologists of the day,
-but the &lt;em&gt;actual product being shipped&lt;/em&gt;, thanks to weak management, was hot garbage.
-It is a special tragedy when a company has a partially excellent team
-and a partially terrible team, because the lowest common denominator
-usually dominates the outcome. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;In other words, if I’m not 100% on board with the business model but
-I believe in the founder, I’ll invest. If the business model is actually implausible,
-then the founder has not thought deeply enough, and I’m out. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">I am an angel investor. I have been investing personally in early-stage companies, Pre-Seed through Series B, since 2015. I do it not for money but for love of the game; the greatest pleasure to me is to learn from entrepreneurs smarter than me, and help them succeed.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Stripe is a well-known innovator in digital payments. They attacked one of the most intimidating and locked-down markets, and made it look like child’s play. They have a compounding competitive edge in processing payments more efficiently for their customers, and the best-crafted APIs in the entire industry. Stripe is admired on these grounds, and more: they have their own press, in line with their thoughtful, public intellectual staff.</summary></entry></feed>
