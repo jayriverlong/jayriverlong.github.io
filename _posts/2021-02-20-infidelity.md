@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Spark of Infidelity
+title: Infidelity Online
 date:   2021-02-19
 summary: Monogamy is hard, and infidelity online is very different from offline.
 published: true
