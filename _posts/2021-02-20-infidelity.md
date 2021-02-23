@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infidelity Online
+title: "Infidelity Online: Simping and Sex in 2020"
 date:   2021-02-19
 summary: Monogamy is hard, and infidelity online is very different from offline.
 published: true
