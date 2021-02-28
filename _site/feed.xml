@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-23T11:33:39-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Infidelity Online: Simping and Sex in 2020</title><link href="http://localhost:4000/2021/02/19/infidelity.html" rel="alternate" type="text/html" title="Infidelity Online: Simping and Sex in 2020" /><published>2021-02-19T00:00:00-08:00</published><updated>2021-02-19T00:00:00-08:00</updated><id>http://localhost:4000/2021/02/19/infidelity</id><content type="html" xml:base="http://localhost:4000/2021/02/19/infidelity.html">&lt;p&gt;I recently turned thirty years old. I had my first kiss when I turned fifteen,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-28T01:18:27-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Advice? Just Say No</title><link href="http://localhost:4000/2021/02/27/advice.html" rel="alternate" type="text/html" title="Advice? Just Say No" /><published>2021-02-27T00:00:00-08:00</published><updated>2021-02-27T00:00:00-08:00</updated><id>http://localhost:4000/2021/02/27/advice</id><content type="html" xml:base="http://localhost:4000/2021/02/27/advice.html">&lt;p&gt;Advice is dangerous.
+Like a horoscope, advice
+often sounds well-crafted and relevant,
+but believing it is rarely productive.
+With clever turns of phrase and time-honored proverbs, you can
+turn any position into an elegant, self-evident truth.
+“One bird in the hand is better than two in the bush” say some, and others
+respond “never compromise, doubling down is the only way to succeed”.
+“The customer is always right” but also “sometimes you gotta fire your customer.”
+Warren Buffett is quoted religiously for his investment advice,
+and a big reason for that is that he has given so much advice
+in his career that you can quote him to argue one way, and quote him for the
+counter-argument too. What is one to believe?&lt;/p&gt;
+
+&lt;p&gt;Programmers learn this early on in their careers. On a late night debugging
+an issue, they’ll Google the error message to find… &lt;a href=&quot;https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png&quot;&gt;no results&lt;/a&gt;.
+Every other issue could be solved by copy-pasting from StackOverflow,
+but not this one. A sinking feeling sets in. &lt;em&gt;You’re on your own now&lt;/em&gt;.
+No advice will help you now, you have to figure it out yourself.&lt;/p&gt;
+
+&lt;p&gt;In other, less mechanical domains, such moments are rare.
+There’s always relevant-seeming advice.
+Career advice is full of idiosyncratic and contradictory positions,
+and business advice legendarily so.
+The contradictory diversity is because when people give advice, it tends to directly
+reflect their own experiences,&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and most people’s experiences
+are quite different from one another. Businesses can be startlingly unique
+in the details, so it’s no surprise that one person will tell you
+to focus on scalability, and another will tell you to do things that don’t scale.&lt;/p&gt;
+
+&lt;p&gt;Because advice is usually a generalization of “this worked for me”, it’s important
+to see that advice is usually &lt;em&gt;reasoning by analogy&lt;/em&gt;, which is dangerous.
+“If we say that
+your situation is like mine fifteen years ago, then you should do this…”
+is the silent preamble that should caveat most advice.
+It breaks the same way that reasoning by analogy does:
+surprise surprise, your situations are not
+actually analogous. They’re different in the details, and the details matter.
+Most advice is not good or bad, but &lt;em&gt;inapplicable&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;But surely there exists useful advice? Yes, there exist &lt;em&gt;playbooks&lt;/em&gt;. At scale,
+collectives of people have figured out roughly how to optimize a process. There’s a playbook
+for getting into a good college. There’s a playbook for interviewing at Amazon,
+starting a B2B SaaS company, or &lt;a href=&quot;https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r&quot;&gt;becoming a Chess Grandmaster&lt;/a&gt;.
+These playbooks are syntheses of successful approaches, like people
+figuring out together how to speed-run a video game.
+However, in the real world, the territory is always changing.
+These playbooks, even good ones like YC’s
+Startup School, have expiration dates.&lt;/p&gt;
+
+&lt;p&gt;What are you to do if there’s no playbook? Well, you’re on your own.
+Silicon Valley types would say “think from first principles”,
+which is generally
+your best bet, but it can be hard to get the premises right.
+More importantly,
+it’s time to trust yourself.
+If you are in an area with no playbooks,
+you have graduated to the frontier.
+You are there because you are good at what you do.
+If you are good at what you do, then why not double down on your own
+intuition?
+&lt;em&gt;Do what you think is best&lt;/em&gt; is usually good advice to those
+who have already shown exceptional capabilities.&lt;/p&gt;
+
+&lt;p&gt;The irony that this is an advice post does not escape me. Of course it follows my own
+experience: in my younger days I spent much time seeking mentorship and advice.
+The advice I received was generally not very good.
+I remember running my first prospective
+angel investment past a number of venture capitalists I respected.
+They all passed, citing various qualms.
+The investment seemed like a no-brainer to me,
+but given the bearishness of these experts,
+I passed, thinking “surely there’s something I’m not getting here”. In the end, all the investors
+were wrong, my intuition was right, their advice was just noise and I missed a phenomenal deal.
+From there on I stopped listening to what others said, and strictly followed my own judgement:
+if I’m here, I got here because I’m good at what I do, and so I’ll just trust myself.&lt;/p&gt;
+
+&lt;p&gt;Life is full of noise. Advice is a combination of people’s genuine opinions and their
+performative signalling, repeating the tenets of their in-group.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;
+This form of noise is omnipresent, and it’ll pull you in all directions.
+You could spend all day listening to two business gurus give perfectly contradictory advice; it
+all nets out to zero. For the most part, just listening to it will &lt;a href=&quot;https://twitter.com/jayriverlong/status/1346370366336163844?s=20&quot;&gt;muddy your thinking&lt;/a&gt;
+and lead you through all sorts of mental contortions to conform to the intellectual aesthetics of others,
+instead of carving the way you believe to be true.
+There’s a way to cut through the noise: ignore it, trust yourself, research carefully, reason rigorously.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This is excepting an even more dangerous form of advice, the purely theoretical
+advice given by someone who has zero practical experience with the subject matter. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Extremely common in business contexts. “Naval says…”, “Charlie Munger says…”,
+and so on. These are signalling fortune cookies rarely worth paying attention to. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Advice is dangerous. Like a horoscope, advice often sounds well-crafted and relevant, but believing it is rarely productive. With clever turns of phrase and time-honored proverbs, you can turn any position into an elegant, self-evident truth. “One bird in the hand is better than two in the bush” say some, and others respond “never compromise, doubling down is the only way to succeed”. “The customer is always right” but also “sometimes you gotta fire your customer.” Warren Buffett is quoted religiously for his investment advice, and a big reason for that is that he has given so much advice in his career that you can quote him to argue one way, and quote him for the counter-argument too. What is one to believe?</summary></entry><entry><title type="html">Infidelity Online: Simping and Sex in 2020</title><link href="http://localhost:4000/2021/02/19/infidelity.html" rel="alternate" type="text/html" title="Infidelity Online: Simping and Sex in 2020" /><published>2021-02-19T00:00:00-08:00</published><updated>2021-02-19T00:00:00-08:00</updated><id>http://localhost:4000/2021/02/19/infidelity</id><content type="html" xml:base="http://localhost:4000/2021/02/19/infidelity.html">&lt;p&gt;I recently turned thirty years old. I had my first kiss when I turned fifteen,
 so now
 half my life has been threaded by a continuous push-pull tango with women.
 With every romantic interest there is a dance of desire and rejection,
@@ -1057,103 +1158,4 @@ stalwart efforts to return us to an era of supersonic flight, and
 Founders Fund’s &lt;a href=&quot;https://twitter.com/foundersfund/status/1313151184287477767?s=20&quot;&gt;opening notes&lt;/a&gt; to their annual meeting. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">What do I want the future to be like? What amazing inventions do I want to see, and help build in my lifetime? I realized this morning that I don’t know. I was shocked.</summary></entry><entry><title type="html">Influencers as Tech Founders: Real Monetization at Last</title><link href="http://localhost:4000/2020/10/17/influencer.html" rel="alternate" type="text/html" title="Influencers as Tech Founders: Real Monetization at Last" /><published>2020-10-17T00:00:00-07:00</published><updated>2020-10-17T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/17/influencer</id><content type="html" xml:base="http://localhost:4000/2020/10/17/influencer.html">&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/David_Dobrik&quot;&gt;David Dobrik&lt;/a&gt;,
-a YouTube star with 26 million followers, is launching a social media app
-called &lt;a href=&quot;https://apps.apple.com/us/app/dispo-live-in-the-moment/id1491684197&quot;&gt;Dispo&lt;/a&gt;.
-There’s a good chance it turns him into a billionaire.&lt;/p&gt;
-
-&lt;p&gt;Dobrik is wealthy already. His monthly YouTube check is around
-&lt;a href=&quot;https://www.menshealth.com/entertainment/a29798708/david-dobrik-salary/&quot;&gt;$275k&lt;/a&gt;,&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
-and he probably makes a little more from his merchandise sales.
-After a seven-year career becoming one of the most famous YouTubers, he’s probably
-worth around $30 million. However, if he succeeds with Dispo, his earnings-to-date would
-pale in comparison.&lt;/p&gt;
-
-&lt;p&gt;Dispo is a compelling product, and there’s a good chance it will be very successful, for two reasons.
-First, Dobrik is outrageously popular with an everyman appeal and a
-loyal following in a highly valuable
-demographic.
-Second, Dobrik’s reach is &lt;em&gt;enormous&lt;/em&gt;. By himself, he has 26 million
-subscribers on YouTube, 23 million on TikTok, and 14 million on Instagram.
-The rest of his entourage have millions more. Dobrik himself
-has accumulated 8.5 &lt;em&gt;billion&lt;/em&gt; YouTube views.&lt;/p&gt;
-
-&lt;p&gt;With only light marketing, Dobrik has gotten a million downloads for Dispo already.
-If he starts seriously pushing Dispo,
-he will easily get millions more.
-Normally, the biggest hurdle for consumer software/social media apps is solving
-the initial chicken-and-egg problem: how do you get people to sign up if no-one else
-is on it? Dobrik bulldozes this problem. He is a one-man network effect.
-While other companies spend
-years slowly growing by word-of-mouth and spending millions of dollars on marketing,
-Dobrik eclipses them from day one: he
-gets his first million users by just telling his followers to download his cool new app.
-While traditional brands
-might balk at forking over tens of millions of dollars in cash
-to influencer advertising campaigns of hard-to-assess effectiveness,
-for Dobrik, this is free.&lt;/p&gt;
-
-&lt;p&gt;It’s hard to overstate how important this is. Lots of great products die because
-they can’t get early-stage consumer traction, sometimes for no reason other than bad luck.
-Dobrik can catapult a product
-into the growth stage. He creates what normally takes &lt;em&gt;years&lt;/em&gt; of brand development instantly with zero cost.
-Normally, an early-stage consumer product
-in a highly competitive space like social media will pay about $10-30 in customer
-acquisition costs (CAC) to register a single new user.
-Dobrik’s following gifts him
-the equivalent of tens of millions of dollars in CAC.&lt;/p&gt;
-
-&lt;p&gt;Consumer software presents an elegant solution to an age-old problem: influencers
-(more traditionally, celebrities) have millions of people watching their every move, but often struggle to
-monetize all these eyeballs, even though attention is arguably the most valuable
-scarce resource in our internet economy.
-Historically, these people have sold
-merchandise, been paid for appearances, done book deals, acted in movies/TV, endorsed products,
-and sometimes even put out music albums.
-These things all make money, but
-relative to the value of their brand and the attention it gets,
-these monetization techniques are earning pennies on the dollar. These are
-five- and six-figure deals when their full CAC potential is worth hundreds of millions.&lt;/p&gt;
-
-&lt;p&gt;If Dobrik succeeds, it will change the influencer monetization game.
-While top-tier
-influencers previously made single-digit millions of dollars, commercial success
-for Dispo could be worth hundreds of millions, if not more.
-If Dispo just raises a Series A or Series B, Dobrik’s share in Dispo (at least on paper) would
-be more valuable than his current net worth.&lt;/p&gt;
-
-&lt;p&gt;Regardless if Dobrik succeeds in this way, some influencer
-will, sooner or later.
-Consumer tech has been moving
-steadily from San Francisco to Los Angeles over the past few years – virtually
-all the cool new consumer companies are out of LA – and it’s only a matter of time
-until the tech and influencer worlds intertwine more in this way.
-For a start, TikTok influencers
-at the Sway House are starting
-to &lt;a href=&quot;https://www.ibtimes.com/tiktok-influencers-sway-boys-turn-angel-investors-just-trying-make-smart-investments-3051715&quot;&gt;angel invest&lt;/a&gt;
-into consumer social companies, and use their followings to help grow those businesses.&lt;/p&gt;
-
-&lt;p&gt;This intertwining seems inevitable. The entrepreneurial spirit is already there.
-Emma Chamberlain (10 million YouTube followers) started a &lt;a href=&quot;https://www.refinery29.com/en-us/2020/09/10042481/emma-chamberlain-coffee-merch-brand-interview&quot;&gt;coffee company&lt;/a&gt;.
-Bryce Hall and Josh Richards (combined 36 million TikTok Followers) started
-an &lt;a href=&quot;https://dankanator.com/74391/josh-richards-bryce-hall-launching-ani-energy-drink/&quot;&gt;energy drink company&lt;/a&gt;.
-The only issue is that
-merch or beverage companies have low upside and command low multiples, compared to software.
-By opportunity cost, it’s not the best use of these influencers’ brands.
-It’s only a matter of time until they start co-founding businesses in the
-high multiple, high-upside consumer software space.
-In the past, consumer tech made influencers. Soon, influencers will make consumer tech.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Dobrik commented that he had some advertising issues
-that shrunk his earnings on some of his videos by 99%, but I suspect this
-was a temporary issue. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">David Dobrik, a YouTube star with 26 million followers, is launching a social media app called Dispo. There’s a good chance it turns him into a billionaire.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">What do I want the future to be like? What amazing inventions do I want to see, and help build in my lifetime? I realized this morning that I don’t know. I was shocked.</summary></entry></feed>
