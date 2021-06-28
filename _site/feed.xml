@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-06-27T19:34:51-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Aging into Irrationality</title><link href="http://localhost:4000/2021/06/26/irrationality.html" rel="alternate" type="text/html" title="Aging into Irrationality" /><published>2021-06-26T00:00:00-07:00</published><updated>2021-06-26T00:00:00-07:00</updated><id>http://localhost:4000/2021/06/26/irrationality</id><content type="html" xml:base="http://localhost:4000/2021/06/26/irrationality.html">&lt;p&gt;My parents are smart, well-educated people.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-06-27T20:06:58-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jay Riverlong</title><subtitle>Jay Riverlong's personal website. Essays and thoughts.</subtitle><entry><title type="html">Aging into Irrationality</title><link href="http://localhost:4000/2021/06/26/irrationality.html" rel="alternate" type="text/html" title="Aging into Irrationality" /><published>2021-06-26T00:00:00-07:00</published><updated>2021-06-26T00:00:00-07:00</updated><id>http://localhost:4000/2021/06/26/irrationality</id><content type="html" xml:base="http://localhost:4000/2021/06/26/irrationality.html">&lt;p&gt;My parents are smart, well-educated people.
 But as they hit their fifties and sixties,
 they started having fearful views on flying.
 They’re both still frequent flyers
@@ -46,12 +46,27 @@ Inadvertently, I cut through the noise.&lt;/p&gt;
 &lt;p&gt;Today, the noise is too thick to cut through. I’m sitting on the emotional accumulation of decades of life,
 a mass of experiences and information cluttering my mind.
 I’m distracted all the time by notions of second-order effects, what-if edge cases,
-and social virtue signals.
+weird traumas, and social virtue signals.
 I suspect that when there’s such a morass of information that it becomes difficult
 to navigate, emotions take over as a shortcut to analysis.&lt;/p&gt;
 
+&lt;p&gt;But it’s neither surprising nor necessarily bad that we rely more on our emotions as we age.
+When we’re younger, we have no experience, so we (should) have to reason about
+things from first principles. As we get older, we accumulate experience, which
+gives rise to valuable but intangible things like &lt;em&gt;taste&lt;/em&gt; and &lt;em&gt;intuition&lt;/em&gt;.
+These are
+emotional internalizations of lessons learned.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;
+It is very satisfying when
+you can do very precise, very correct work just on intuition from years of experience.
+The danger is that as you get older and older,
+eventually you’re running &lt;em&gt;entirely&lt;/em&gt; on intuition, not reason,
+and the experiences that created your intuition become outdated.
+You haven’t had to &lt;em&gt;think&lt;/em&gt; in a long time, and usually you were right,
+but slowly, you’re wrong more and more often. If you’ve let yourself rely too heavily on
+intuition and haven’t kept flexing your thinking muscles, you’re in trouble.&lt;/p&gt;
+
 &lt;p&gt;Successful thinking is clear thinking, and
-clear thinking is &lt;em&gt;simple&lt;/em&gt;.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;
+clear thinking is &lt;em&gt;simple&lt;/em&gt;.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;
 That requires structuring a huge mess of thoughts, and cutting through them
 cleanly to get to the core.
 The huge mess of thoughts only becomes larger as we become older,
@@ -73,8 +88,13 @@ But if my siblings and I are on the same plane, my parents will be very upset.
 losing
 their children at this stage in life is a fate worse than death.
 I suspect that having children
-has such an evolutionarily powerful cognitive effect on how we view and prioritize &lt;em&gt;risk&lt;/em&gt;
+has a large, evolutionary cognitive effect on how we view and prioritize &lt;em&gt;risk&lt;/em&gt;
 that it is a big part of aging into irrationality. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Some might call these curve fits to empirical data observed. The more data,
+the better the curve fit. But such curve fits (intuitions) usually have
+a lifespan: very little real-world time-series data has patterns that are permanent. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
       &lt;p&gt;There’s been a recent scandal in the press about Peter Thiel having $5B in his Roth IRA.

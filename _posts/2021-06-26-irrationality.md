@@ -61,10 +61,25 @@ Inadvertently, I cut through the noise.
 Today, the noise is too thick to cut through. I'm sitting on the emotional accumulation of decades of life,
 a mass of experiences and information cluttering my mind.
 I'm distracted all the time by notions of second-order effects, what-if edge cases,
-and social virtue signals.
+weird traumas, and social virtue signals.
 I suspect that when there's such a morass of information that it becomes difficult
 to navigate, emotions take over as a shortcut to analysis.
 
+
+But it's neither surprising nor necessarily bad that we rely more on our emotions as we age.
+When we're younger, we have no experience, so we (should) have to reason about
+things from first principles. As we get older, we accumulate experience, which
+gives rise to valuable but intangible things like *taste* and *intuition*.
+These are
+emotional internalizations of lessons learned.[^3]
+It is very satisfying when
+you can do very precise, very correct work just on intuition from years of experience.
+The danger is that as you get older and older,
+eventually you're running *entirely* on intuition, not reason,
+and the experiences that created your intuition become outdated.
+You haven't had to *think* in a long time, and usually you were right,
+but slowly, you're wrong more and more often. If you've let yourself rely too heavily on
+intuition and haven't kept flexing your thinking muscles, you're in trouble.
 
 
 Successful thinking is clear thinking, and
@@ -75,6 +90,7 @@ The huge mess of thoughts only becomes larger as we become older,
 and more inundated with information online.
 Somewhat ironically, the more information you ingest, the harder you have to work
 to maintain clarity of thought.
+
 
 <br/>
 
@@ -94,5 +110,9 @@ to maintain clarity of thought.
     losing
     their children at this stage in life is a fate worse than death.
     I suspect that having children
-    has such an evolutionarily powerful cognitive effect on how we view and prioritize *risk*
+    has a large, evolutionary cognitive effect on how we view and prioritize *risk*
     that it is a big part of aging into irrationality.
+
+[^3]: Some might call these curve fits to empirical data observed. The more data,
+    the better the curve fit. But such curve fits (intuitions) usually have
+    a lifespan: very little real-world time-series data has patterns that are permanent.
